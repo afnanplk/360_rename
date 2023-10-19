@@ -1,4 +1,4 @@
-## The website offers a user-friendly solution for people who work with image files and need to rename and manage them more efficiently
+## offers a user-friendly solution for people who work with image files and need to rename and manage them more efficiently
 
 <details close>
     <summary>Batch Renaming: </summary>
