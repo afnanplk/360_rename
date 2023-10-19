@@ -23,3 +23,5 @@
 
 ## screenshot
 ![Screenshot 2023-10-19 211329](https://github.com/afnanplk/360_rename/assets/83832372/710eb074-0e44-4f08-94c0-a42c6e27fca8)
+
+[prefix and postfix are optional]
